@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+body {
+    font: 16px/28px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eaeaea;
+    color: #333;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.header {
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.header .judul {
+    font-weight: bold;
+}
+
+ul {
+    padding: 0;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.header a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.header a:hover {
+    background-color: aqua;
+    color: white;
+}

@@ -43,3 +43,9 @@ ul {
     background-color: aqua;
     color: white;
 }
+
+.hero {
+    background-image: url(pexels.jpg);
+    height: 400px;
+    background-size: cover;
+}
